@@ -1,4 +1,4 @@
-# Rohit_PhoneInfoga
+# DECODEX_PhoneInfoga
 You can easily install PhoneInfoga with the help of this repository.
 
 Install PhoneInfoga in Termux :-
