@@ -12,7 +12,7 @@ apt update && apt upgrade -y
 
 pkg install git -y
 
-git clone https://github.com/avengerrohit/Rohit_PhoneInfoga
+git clone https://github.com/DARK-E-HACKING82/DE-CODEX-Infoga.git
 
 cd Rohit_PhoneInfoga/
 
